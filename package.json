@@ -1,0 +1,18 @@
+{
+  "name": "dmoj",
+  "version": "1.0.0",
+  "description": "A node wrapper for the DMOJ API.",
+  "main": "index.js",
+  "dependencies": {
+    "snekfetch": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dmoj"
+  ],
+  "author": "Ruyi Li",
+  "license": "ISC"
+}
